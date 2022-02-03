@@ -1,0 +1,12 @@
+{
+    "name": "tienlq1/repository",
+    "description": "Library of laravel project",
+    "type": "library",
+    "license": "1.0",
+    "authors": [{
+        "name": "tienlq",
+        "email": "quangtienvkt@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {}
+}
