@@ -2,7 +2,7 @@
     "name": "tienlq1/repository",
     "description": "Library of laravel project",
     "type": "library",
-    "license": "1.0",
+    "license": "BSD-2-Clause",
     "authors": [{
         "name": "tienlq",
         "email": "quangtienvkt@gmail.com"
